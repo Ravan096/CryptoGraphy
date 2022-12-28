@@ -9,7 +9,7 @@ const Home = () => {
         height:'80vh',
       }}
       animate={{
-          translateX:'20px',
+          translateY:'20px',
         }}
         
         transition={{
